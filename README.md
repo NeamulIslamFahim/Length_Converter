@@ -12,3 +12,5 @@ Then if you choose mile or yard or foot, it will give you the answers.
 
 
 Download link: https://drive.google.com/u/0/uc?id=1vsUJNgEdJfMUJAHsjRqeKfgCPlCv66wb&export=download
+
+click on download anyway and its virus free software
